@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmTest</string>
+    <string name="set_notification">SET NOTIFICATION</string>
+</resources>
